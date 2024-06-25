@@ -15,6 +15,6 @@ public class WebappApplication {
 
 	@GetMapping
 	public String hello(){
-		return "Hello buddy";
+		return "This is a Practical Learning CICD to demonstrate Java application deployment via Azure DevOps ";
 	}
 }
